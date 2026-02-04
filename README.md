@@ -8,7 +8,7 @@
 ![Spring](https://img.shields.io/badge/SPRING-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Microservices](https://img.shields.io/badge/MICROSERVICES-ARCHITECTURE-%23009688.svg?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/MICROSERVICES-ARCHITECTURE-%23009688.svg?style=for-the-badge).
 ![JWT](https://img.shields.io/badge/JWT%20AUTHENTICATION-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ![REST](https://img.shields.io/badge/REST%20APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
