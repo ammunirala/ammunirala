@@ -1,61 +1,130 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_nirala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amresh-nirala2003/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aariyanirala1@gmail.com)
+<div align="center">
 
-## 💻 Tech Stack
+# Hi, I'm Amresh Kumar Nirala 👋
 
-![Java](https://img.shields.io/badge/CORE%20JAVA-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/SPRING-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20AUTHENTICATION-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### Java Backend Developer • Spring Boot • Microservices • REST APIs
 
-![REST](https://img.shields.io/badge/REST%20APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/HIBERNATE-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Microservices;REST+APIs+%7C+MySQL+%7C+Hibernate;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+Every+Day" alt="Typing SVG" />
 
-![Microservices](https://img.shields.io/badge/MICROSERVICES-ARCHITECTURE-%23009688.svg?style=for-the-badge)
-![Spring Cloud](https://img.shields.io/badge/SPRING%20CLOUD-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Eureka](https://img.shields.io/badge/EUREKA-SERVICE%20DISCOVERY-%23009688.svg?style=for-the-badge)
-![API Gateway](https://img.shields.io/badge/API%20GATEWAY-SPRING%20CLOUD-%23009688.svg?style=for-the-badge)
-![Config Server](https://img.shields.io/badge/CONFIG%20SERVER-CENTRALIZED-%23009688.svg?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=ammunirala&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ammunirala?label=FOLLOWERS&style=for-the-badge&logo=github" alt="GitHub followers" />
 
-![Maven](https://img.shields.io/badge/APACHE%20MAVEN-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUNIT-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+</div>
 
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-![Postman](https://img.shields.io/badge/POSTMAN-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+## 👨‍💻 About Me
 
-# 📊 GitHub Stats
+```java
+public class Amresh {
+    String role = "Java Backend Developer";
+    String degree = "B.Tech CSE";
+    String[] coreStack = {"Java", "Spring Boot", "Spring Security", "Hibernate", "MySQL"};
+    String[] learning = {"Microservices", "Spring Cloud", "Docker", "AWS", "DSA"};
+    String goal = "Build reliable, scalable and production-ready backend systems";
+}
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammunirala&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Amresh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammunirala&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top languages" />
-</p>
+- 🎓 B.Tech Computer Science & Engineering
+- ☕ Focused on **Java Backend Development**
+- 🔐 Building secure APIs using **Spring Security & JWT**
+- 🧩 Exploring **Microservices, Spring Cloud & distributed systems**
+- 🐳 Improving skills in **Docker, AWS and modern backend deployment**
+- 🧠 Practicing **DSA & problem solving in Java**
+- 💼 Open to **Software Engineer / Java Backend Developer opportunities**
+
+---
+
+## ⚡ Tech Arsenal
+
+### Backend & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Microservices & Cloud
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-009688?style=for-the-badge)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka-Service_Discovery-009688?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-Spring_Cloud-009688?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Developer Tools
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 🎯 Current Mission
+
+```text
+Backend Engineering  ███████████████████░   Java + Spring ecosystem
+Microservices        ███████████████░░░░░   Spring Cloud architecture
+DevOps / Cloud       ███████████░░░░░░░░░   Docker + AWS
+DSA                  ██████████████░░░░░░   Placement preparation
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ammunirala&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammunirala&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ammunirala&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ammunirala&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 📈 Contribution Activity
 
-[![Amresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ammunirala&theme=github-compact&hide_border=true)](https://github.com/ammunirala)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ammunirala&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ammunirala&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Amresh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ammunirala&theme=github-compact&hide_border=true&area=true)](https://github.com/ammunirala)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ammunirala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ammunirala/ammunirala/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ammunirala&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amresh_Nirala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amresh-nirala2003/)
+[![GitHub](https://img.shields.io/badge/GitHub-ammunirala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ammunirala)
+[![Instagram](https://img.shields.io/badge/Instagram-the__nirala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_nirala)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aariyanirala1@gmail.com)
+
+### 💻 "Code. Learn. Build. Repeat."
+
+</div>
