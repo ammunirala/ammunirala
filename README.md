@@ -1,6 +1,5 @@
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_nirala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amresh-nirala2003/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aariyanirala1@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_nirala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amresh-nirala2003/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aariyanirala1@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -29,14 +28,26 @@
 ![Postman](https://img.shields.io/badge/POSTMAN-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ammunirala&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ammunirala&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ammunirala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammunirala&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Amresh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammunirala&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top languages" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ammunirala&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+[![Amresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ammunirala&theme=github-compact&hide_border=true)](https://github.com/ammunirala)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ammunirala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=ammunirala&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
